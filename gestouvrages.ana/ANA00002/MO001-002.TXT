@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+ouvrage		TAR	399	nouvelle taille enregistrement : 399
+ouvrage	etage	RUB+		etage est une nouvelle rubrique

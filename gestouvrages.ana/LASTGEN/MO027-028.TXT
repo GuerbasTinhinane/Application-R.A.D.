@@ -1,0 +1,6 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+ouvrage	code_ouvrage	CLEU*		la rubrique code_ouvrage est maintenant une clé
+ouvrage	code_ouvrage	RDP+		
+Liste_emprunts		TAR	221	nouvelle taille enregistrement : 221
+Liste_emprunts	code_ouvrage	RUB+		code_ouvrage est une nouvelle rubrique
+Liste_emprunts	Selecteur	RUB-		la rubrique Selecteur est supprimée

@@ -1,0 +1,10 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+ouvrage		NFI		nouveau fichier
+domaine		NFI		nouveau fichier
+etage		NFI		nouveau fichier
+ranger		NFI		nouveau fichier
+login		NFI		nouveau fichier
+historique		NFI		nouveau fichier
+Contrainte_domaine_ouvrage		NWL	domaine (IDdomaine) et ouvrage (IDdomaine)	Nouvelle liaison entre les fichiers domaine (IDdomaine) et ouvrage (IDdomaine)
+Contrainte_ranger_ouvrage		NWL	ranger (IDranger) et ouvrage (IDranger)	Nouvelle liaison entre les fichiers ranger (IDranger) et ouvrage (IDranger)
+Contrainte_etage_ouvrage		NWL	etage (IDetage) et ouvrage (IDetage)	Nouvelle liaison entre les fichiers etage (IDetage) et ouvrage (IDetage)

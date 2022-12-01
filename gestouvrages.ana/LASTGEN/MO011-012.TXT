@@ -1,0 +1,6 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+ouvrage		TAR	1262	nouvelle taille enregistrement : 1262
+ouvrage	IDemprunté	RUB+		IDemprunté est une nouvelle clé
+emprunté		NFI		nouveau fichier
+Contrainte_domaine_ouvrage		MCL	0,1->1,1	
+Contrainte_emprunté_ouvrage		NWL	emprunté (IDemprunté) et ouvrage (IDemprunté)	Nouvelle liaison entre les fichiers emprunté (IDemprunté) et ouvrage (IDemprunté)

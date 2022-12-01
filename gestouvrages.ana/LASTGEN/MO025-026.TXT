@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Liste_emprunts		TAR	171	nouvelle taille enregistrement : 171
+Liste_emprunts	sel	RUB+		sel est une nouvelle rubrique

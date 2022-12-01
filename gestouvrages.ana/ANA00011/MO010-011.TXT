@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+ouvrage		TAR	1258	nouvelle taille enregistrement : 1258
+ouvrage	domaine	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique domaine a pour nouveau type Entier non signé sur 1 octet
+ouvrage	etage	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique etage a pour nouveau type Entier non signé sur 1 octet
+ouvrage	ranger	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique ranger a pour nouveau type Entier non signé sur 1 octet

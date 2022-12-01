@@ -1,0 +1,13 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Liste_emprunts		NNF*	emprunté	nouveau nom Liste_emprunts
+Liste_emprunts		TAR	170	nouvelle taille enregistrement : 170
+Liste_emprunts	IDListeemprunts	NNR	IDemprunté	ATTENTION : la clé IDemprunté a pour nouveau nom IDListeemprunts
+Liste_emprunts	Nom	RUB+		Nom est une nouvelle rubrique
+Liste_emprunts	Prénom	RUB+		Prénom est une nouvelle rubrique
+Liste_emprunts	Matricule	RUB+		Matricule est une nouvelle rubrique
+Liste_emprunts	Contact	RUB+		Contact est une nouvelle rubrique
+Liste_emprunts	nbrLivres	RUB-		la rubrique nbrLivres est supprimée
+Liste_emprunts	IDouvrage	RUB-		la rubrique IDouvrage est supprimée
+login		FIC-	login	Fichier supprimé login
+historique		FIC-	historique	Fichier supprimé historique
+Liste_emprunts		FRN		

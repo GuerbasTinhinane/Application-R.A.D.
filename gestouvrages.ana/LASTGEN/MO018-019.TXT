@@ -1,0 +1,2 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Contrainte_emprunté_ouvrage		DEL	emprunté (IDemprunté) et ouvrage (IDemprunté)	Liaison supprimée entre les fichiers emprunté (IDemprunté) et ouvrage (IDemprunté)

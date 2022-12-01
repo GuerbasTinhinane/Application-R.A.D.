@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+ouvrage		TAR	1259	nouvelle taille enregistrement : 1259
+ouvrage	statut	RUB+		statut est une nouvelle rubrique

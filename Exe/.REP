@@ -1,0 +1,8 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=4	;Analysis GUID
+LOCALIZATION_UTF8=883A2A130B564881A40EED31CE4A8928	ouvrage	C:\Mes projets\gestouvrages\Exe\ouvrage.fic
+LOCALIZATION_UTF8=C15282721BA8437CAC5246DBB2289710	domaine	C:\Mes projets\gestouvrages\Exe\domaine.fic
+LOCALIZATION_UTF8=D5B66548390F4631A124BCBBAB537988	etage	C:\Mes projets\gestouvrages\Exe\etage.fic
+LOCALIZATION_UTF8=7143D60DF70F4939B829221009071E91	ranger	C:\Mes projets\gestouvrages\Exe\ranger.fic
+LOCALIZATION_UTF8=6DA5FE368F634D21905A546BF96F284F	Liste_emprunts	C:\Mes projets\gestouvrages\Exe\Liste_emprunts.fic

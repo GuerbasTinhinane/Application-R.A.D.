@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+ouvrage		TAR	1263	nouvelle taille enregistrement : 1263
+ouvrage	statut	CNW	Booléen$Chaîne	la rubrique statut a pour nouveau type Booléen

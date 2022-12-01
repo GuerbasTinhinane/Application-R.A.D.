@@ -1,0 +1,7 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+ouvrage		TAR	1258	nouvelle taille enregistrement : 1258
+ouvrage	IDemprunté	RUB-		la clé IDemprunté est supprimée
+ouvrage	statut	RUB-		la rubrique statut est supprimée
+ouvrage	IDListeemprunts	RUB-		la clé IDListeemprunts est supprimée
+Contrainte_Liste_emprunts_ouvrage		NWL	ouvrage (code_ouvrage) et Liste_emprunts (code_ouvrage)	Nouvelle liaison entre les fichiers ouvrage (code_ouvrage) et Liste_emprunts (code_ouvrage)
+Contrainte_ouvrage_Liste_emprunts		DEL	Liste_emprunts (IDListeemprunts) et ouvrage (IDListeemprunts)	Liaison supprimée entre les fichiers Liste_emprunts (IDListeemprunts) et ouvrage (IDListeemprunts)

@@ -1,0 +1,4 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+ouvrage		TAR	1268	nouvelle taille enregistrement : 1268
+ouvrage	IDListeemprunts	RUB+		IDListeemprunts est une nouvelle clé
+Contrainte_ouvrage_Liste_emprunts		NWL	Liste_emprunts (IDListeemprunts) et ouvrage (IDListeemprunts)	Nouvelle liaison entre les fichiers Liste_emprunts (IDListeemprunts) et ouvrage (IDListeemprunts)

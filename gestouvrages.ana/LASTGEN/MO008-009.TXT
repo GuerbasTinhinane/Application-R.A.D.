@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+ouvrage		TAR	1358	nouvelle taille enregistrement : 1358
+ouvrage	domaine	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique domaine a pour nouveau type Entier non signé sur 1 octet

@@ -1,0 +1,5 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+ouvrage		TAR	1408	nouvelle taille enregistrement : 1408
+ouvrage	domaine	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique domaine a pour nouveau type Chaîne
+ouvrage	etage	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique etage a pour nouveau type Chaîne
+ouvrage	ranger	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique ranger a pour nouveau type Chaîne

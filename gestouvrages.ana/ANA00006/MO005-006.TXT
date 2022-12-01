@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+ouvrage		TAR	1408	nouvelle taille enregistrement : 1408
+ouvrage	resumé_ouvrage	TAI+	950	la rubrique resumé_ouvrage a comme nouvelle taille 1001 au lieu de 51

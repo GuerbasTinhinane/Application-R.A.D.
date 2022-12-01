@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+ouvrage		TAR	1313	nouvelle taille enregistrement : 1313
+ouvrage	statut	CNW	Chaîne$Caractère	la rubrique statut a pour nouveau type Chaîne
